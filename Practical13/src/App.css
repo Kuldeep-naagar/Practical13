@@ -1,0 +1,28 @@
+#root {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+nav {
+  margin: 20px 0;
+}
+
+nav a {
+  color: #2563eb;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  color: #333;
+}
